@@ -398,6 +398,6 @@ VOID ProcessDoppelgänging(
 
 void main()
 {
-    ProcessDoppelgänging(L"C:\\1\\putty.exe", L"C:\\1\\hello1.exe");
+    ProcessDoppelgänging(L"C:\\1\\calc.exe", L"C:\\1\\hello1.exe");
     ExitProcess(0);
 }
